@@ -1,7 +1,8 @@
-@data   20.03.2018
-@autor  Andrey Chernov
-@mail   akinava@gmail.com
-@donate btc: 14tAPpwzrfZqBeFVvfBZHiBdByYhsoFofn
+* data   20.03.2018
+* autor  Andrey Chernov
+* mail   akinava@gmail.com
+* donate btc: 14tAPpwzrfZqBeFVvfBZHiBdByYhsoFofn
+
 
 * Что это?
 
