@@ -1,7 +1,7 @@
-* data   20.03.2018
-* autor  Andrey Chernov
-* mail   akinava@gmail.com
-* donate btc: 14tAPpwzrfZqBeFVvfBZHiBdByYhsoFofn
+data   20.03.2018
+autor  Andrey Chernov
+mail   akinava@gmail.com
+donate btc: 14tAPpwzrfZqBeFVvfBZHiBdByYhsoFofn
 
 
 * Что это?
@@ -28,3 +28,7 @@
 4. Подать напряжение ~5v вполне подойдет и напряжение от USB порта. Записать значение напряжение в переменную VOLTS_VALUE_1 и значение с дисплея в переменную ADC_VALUE_1. Подать напряжение ~3v для этого подойдут две батареи AA или AAA, записать значение напряжения в VOLTS_VALUE_2 а значение с дисплея в переменную в ADC_VALUE_2.
 5. Вернуть блоки "calibrate mode" и "main mode" в первоначальное состояние.
 6. Программа готова для сборки и использования.
+
+* Как это в итоге выглядит
+
+![alt text](https://raw.githubusercontent.com/Akinava/charge_level_18650/master/img/how_it_looks.jpg)
